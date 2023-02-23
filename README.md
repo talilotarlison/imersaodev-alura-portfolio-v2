@@ -20,4 +20,4 @@ Projeto construído do evento  Imersao Dev da Alura, em 03/2022.
 
 ## 💛 Contato
 
-ttarlison@gmail.com
+[🔗 https://linktr.ee/talilo.tarlison](https://linktr.ee/talilo.tarlison)
